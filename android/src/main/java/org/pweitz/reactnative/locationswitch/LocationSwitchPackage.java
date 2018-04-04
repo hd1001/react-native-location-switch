@@ -12,9 +12,9 @@ import java.util.List;
 
 public class LocationSwitchPackage implements ReactPackage {
 
-    public List<Class<? extends JavaScriptModule>> createJSModules() {
-        return Collections.emptyList();
-    }
+//    public List<Class<? extends JavaScriptModule>> createJSModules() {
+//        return Collections.emptyList();
+//    }
 
     @Override
     public List<ViewManager> createViewManagers(ReactApplicationContext reactContext) {
